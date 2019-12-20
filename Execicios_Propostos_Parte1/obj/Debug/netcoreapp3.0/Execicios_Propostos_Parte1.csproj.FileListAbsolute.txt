@@ -1,0 +1,11 @@
+C:\Users\Silas1\Desktop\Execicios_Propostos_Parte1\Execicios_Propostos_Parte1\bin\Debug\netcoreapp3.0\Execicios_Propostos_Parte1.exe
+C:\Users\Silas1\Desktop\Execicios_Propostos_Parte1\Execicios_Propostos_Parte1\bin\Debug\netcoreapp3.0\Execicios_Propostos_Parte1.deps.json
+C:\Users\Silas1\Desktop\Execicios_Propostos_Parte1\Execicios_Propostos_Parte1\bin\Debug\netcoreapp3.0\Execicios_Propostos_Parte1.runtimeconfig.json
+C:\Users\Silas1\Desktop\Execicios_Propostos_Parte1\Execicios_Propostos_Parte1\bin\Debug\netcoreapp3.0\Execicios_Propostos_Parte1.runtimeconfig.dev.json
+C:\Users\Silas1\Desktop\Execicios_Propostos_Parte1\Execicios_Propostos_Parte1\bin\Debug\netcoreapp3.0\Execicios_Propostos_Parte1.dll
+C:\Users\Silas1\Desktop\Execicios_Propostos_Parte1\Execicios_Propostos_Parte1\bin\Debug\netcoreapp3.0\Execicios_Propostos_Parte1.pdb
+C:\Users\Silas1\Desktop\Execicios_Propostos_Parte1\Execicios_Propostos_Parte1\obj\Debug\netcoreapp3.0\Execicios_Propostos_Parte1.csprojAssemblyReference.cache
+C:\Users\Silas1\Desktop\Execicios_Propostos_Parte1\Execicios_Propostos_Parte1\obj\Debug\netcoreapp3.0\Execicios_Propostos_Parte1.AssemblyInfoInputs.cache
+C:\Users\Silas1\Desktop\Execicios_Propostos_Parte1\Execicios_Propostos_Parte1\obj\Debug\netcoreapp3.0\Execicios_Propostos_Parte1.AssemblyInfo.cs
+C:\Users\Silas1\Desktop\Execicios_Propostos_Parte1\Execicios_Propostos_Parte1\obj\Debug\netcoreapp3.0\Execicios_Propostos_Parte1.dll
+C:\Users\Silas1\Desktop\Execicios_Propostos_Parte1\Execicios_Propostos_Parte1\obj\Debug\netcoreapp3.0\Execicios_Propostos_Parte1.pdb
